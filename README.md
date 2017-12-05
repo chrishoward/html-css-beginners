@@ -67,7 +67,7 @@
     1. [ ] Styling form part 2 *(Video)*
     1. [ ] Styling form part 3 *(Video)*
     
-1. **Take the Website Online**
+1. **Get the Website Online**
     1. [ ] Intro and what we need! *(Video)*
     1. [ ] Uploading files *(Video)*
     1. [ ] Process PHP page *(Video)*
