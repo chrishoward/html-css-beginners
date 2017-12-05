@@ -1,7 +1,9 @@
 ![Udemy Logo](https://i.imgur.com/dlwUan0.png)
 
 ## Udemy Online Course: HTML and CSS for Beginners
-Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/
+:hammer_and_wrench:  Programming Languages: `HTML5`, `CSS3`, `PHP`
+
+:book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/
 - [x] Denotes task completed.
 
 ## Curriculum:
