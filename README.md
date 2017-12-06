@@ -8,11 +8,11 @@
 
 ## Curriculum:
 1. **First Step and Introduction**
-    1. [ ] Some Tips to get you started *(Video)*
-    1. [ ] What is HTML? *(Video)*
-    1. [ ] Course Exercise and Video Quality *(Video)*
-    1. [ ] Code Editor *(Video)*
-    1. [ ] Quiz 1
+    1. [x] Some Tips to get you started *(Video)*
+    1. [x] What is HTML? *(Video)*
+    1. [x] Course Exercise and Video Quality *(Video)*
+    1. [x] Code Editor *(Video)*
+    1. [x] Quiz 1
 
 1. **Page Structure**
     1. [ ] First HTML Code *(Video)*
