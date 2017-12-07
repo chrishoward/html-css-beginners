@@ -15,10 +15,10 @@
     1. [x] Quiz 1
 
 1. **Page Structure**
-    1. [ ] First HTML Code *(Video)*
-    1. [ ] Exploring the document *(Video)*
-    1. [ ] Headings *(Video)*
-    1. [ ] Comments, White Space and line breaks *(Video)*
+    1. [x] First HTML Code *(Video)*
+    1. [x] Exploring the document *(Video)*
+    1. [x] Headings *(Video)*
+    1. [x] Comments, White Space and line breaks *(Video)*
     1. [ ] Popular HTML tags *(Video)*
     1. [ ] Creating Images *(Video)*
     1. [ ] Creating Links *(Video)*
