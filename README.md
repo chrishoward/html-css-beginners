@@ -19,11 +19,11 @@
     1. [x] Exploring the document *(Video)*
     1. [x] Headings *(Video)*
     1. [x] Comments, White Space and line breaks *(Video)*
-    1. [ ] Popular HTML tags *(Video)*
-    1. [ ] Creating Images *(Video)*
-    1. [ ] Creating Links *(Video)*
-    1. [ ] Clickable Images *(Video)*
-    1. [ ] Tables *(Video)*
+    1. [x] Popular HTML tags *(Video)*
+    1. [x] Creating Images *(Video)*
+    1. [x] Creating Links *(Video)*
+    1. [x] Clickable Images *(Video)*
+    1. [x] Tables *(Video)*
     1. [ ] Forms *(Video)*
     1. [ ] Lists *(Video)*
     1. [ ] The Rest of the HTML tags *(Video)*
