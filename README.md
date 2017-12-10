@@ -24,12 +24,12 @@
     1. [x] Creating Links *(Video)*
     1. [x] Clickable Images *(Video)*
     1. [x] Tables *(Video)*
-    1. [ ] Forms *(Video)*
-    1. [ ] Lists *(Video)*
-    1. [ ] The Rest of the HTML tags *(Video)*
-    1. [ ] Quiz 2
-    1. [ ] Create an HTML paragraph element with some text inside *(Coding Test)*
-    1. [ ] Create the biggest heading *(Coding Test)*
+    1. [x] Forms *(Video)*
+    1. [x] Lists *(Video)*
+    1. [x] The Rest of the HTML tags *(Video)*
+    1. [x] Quiz 2
+    1. [x] Create an HTML paragraph element with some text inside *(Coding Test)*
+    1. [x] Create the biggest heading *(Coding Test)*
 
 1. **CSS**
     1. [ ] Inline Style *(Video)*
