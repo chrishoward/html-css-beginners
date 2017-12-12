@@ -3,8 +3,10 @@
 ## Udemy Course: HTML and CSS for Beginners
 :hammer_and_wrench:  Programming Languages: `HTML5`, `CSS3`, `PHP`
 
-:book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/
-- [x] Denotes task completed.
+:book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/  
+
+Lessons consisted of videos of code being typed and the associated theory explained. I reproduced the code in my own HTML files and experimented with the code during each lesson. Also included were multiple choice quizzes and coding quizzes.
+- [x] Denotes lesson completed.
 
 ## Curriculum:
 1. **First Step and Introduction**
