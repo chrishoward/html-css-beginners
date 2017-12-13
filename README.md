@@ -5,7 +5,7 @@
 
 :book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/  
 
-Lessons consisted of videos of code being typed and the associated theory explained. I reproduced the code in my own HTML files and experimented with the code during each lesson. Also included were multiple choice quizzes and coding quizzes.
+Lessons consisted of videos of code being typed and the associated theory explained. I reproduced the code in my own HTML files and experimented with the code during each lesson. Also included were multiple choice quizzes and coding exercises.
 - [x] Denotes lesson completed.
 
 ## Curriculum:
