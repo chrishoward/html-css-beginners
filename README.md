@@ -5,7 +5,7 @@
 
 :book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/  
 
-Lessons consisted of videos of code being typed and the associated theory explained. I reproduced the code in my own HTML files and experimented with the code during each lesson. Also included were multiple choice quizzes and coding exercises.
+Lessons consisted of videos of code being typed and the associated theory explained. I reproduced the code in my own HTML files and experimented with the code during each lesson. Also included were multiple choice quizzes and coding exercises. Not all of the working files from the course have been uploaded to GitHub as some of them were too short and basic.
 - [x] Denotes lesson completed.
 
 ## Curriculum:
@@ -34,24 +34,24 @@ Lessons consisted of videos of code being typed and the associated theory explai
     1. [x] Create the biggest heading *(Coding Test)*
 
 1. **CSS**
-    1. [ ] Inline Style *(Video)*
-    1. [ ] Internal Style *(Video)*
-    1. [ ] External Style *(Video)*
-    1. [ ] Selectors *(Video)*
-    1. [ ] Id's and Classes *(Video)*
-    1. [ ] Linking Javascript *(Video)*
-    1. [ ] Common Styling Properties *(Video)*
+    1. [x] Inline Style *(Video)*
+    1. [x] Internal Style *(Video)*
+    1. [x] External Style *(Video)*
+    1. [x] Selectors *(Video)*
+    1. [x] Id's and Classes *(Video)*
+    1. [x] Linking Javascript *(Video)*
+    1. [x] Common Styling Properties *(Video)*
     
 1. **Extra Bonus Lectures - More CSS Examples**
-    1. [ ] Inserting Pictures and Styling *(Video)*
-    1. [ ] Inserting Pictures Via CSS *(Video)*
-    1. [ ] Hover Effect *(Video)*
-    1. [ ] Where to go next *(Video)*
-    1. [ ] Get Your Certificate Here *(Video)*
+    1. [x] Inserting Pictures and Styling *(Video)*
+    1. [x] Inserting Pictures Via CSS *(Video)*
+    1. [x] Hover Effect *(Video)*
+    1. [x] Where to go next *(Video)*
+    1. [x] Get Your Certificate Here *(Video)*
     
 1. **Build a Website**
-    1. [ ] Intro *(Video)*
-    1. [ ] Structure *(Video)*
+    1. [x] Intro *(Video)*
+    1. [x] Structure *(Video)*
     1. [ ] Menu *(Video)*
     1. [ ] Main Divs *(Video)*
     1. [ ] Footer and more *(Video)*
