@@ -52,27 +52,27 @@ Lessons consisted of videos of code being typed and the associated theory explai
 1. **Build a Website**
     1. [x] Intro *(Video)*
     1. [x] Structure *(Video)*
-    1. [ ] Menu *(Video)*
-    1. [ ] Main Divs *(Video)*
-    1. [ ] Footer and more *(Video)*
-    1. [ ] Styling Container, body and header *(Video)*
-    1. [ ] Styling menu *(Video)*
-    1. [ ] Styling main div *(Video)*
-    1. [ ] Styling footer part 1 *(Video)*
-    1. [ ] Styling footer part 2 *(Video)*
-    1. [ ] Home page image *(Video)*
-    1. [ ] About Page *(Video)*
+    1. [x] Menu *(Video)*
+    1. [x] Main Divs *(Video)*
+    1. [x] Footer and more *(Video)*
+    1. [x] Styling Container, body and header *(Video)*
+    1. [x] Styling menu *(Video)*
+    1. [x] Styling main div *(Video)*
+    1. [x] Styling footer part 1 *(Video)*
+    1. [x] Styling footer part 2 *(Video)*
+    1. [x] Home page image *(Video)*
+    1. [x] About Page *(Video)*
     
 1. **Messaging Form / Contact form with some PHP**
-    1. [ ] Form HTML markup *(Video)*
-    1. [ ] Styling form part 1 *(Video)*
-    1. [ ] Styling form part 2 *(Video)*
-    1. [ ] Styling form part 3 *(Video)*
+    1. [x] Form HTML markup *(Video)*
+    1. [x] Styling form part 1 *(Video)*
+    1. [x] Styling form part 2 *(Video)*
+    1. [x] Styling form part 3 *(Video)*
     
 1. **Get the Website Online**
-    1. [ ] Intro and what we need! *(Video)*
-    1. [ ] Uploading files *(Video)*
-    1. [ ] Process PHP page *(Video)*
-    1. [ ] Validation on the fly *(Video)*
-    1. [ ] Sending emails *(Video)*
-    1. [ ] Adding some images *(Video)*
+    1. [x] Intro and what we need! *(Video)*
+    1. [x] Uploading files *(Video)*
+    1. [x] Process PHP page *(Video)*
+    1. [x] Validation on the fly *(Video)*
+    1. [x] Sending emails *(Video)*
+    1. [x] Adding some images *(Video)*

@@ -15,7 +15,6 @@ body {
 
 .header {
     padding: 45px 0 20px 40px;
-    /* border: 2px solid black; */
 }
 
 /* Navigation menu */
@@ -125,7 +124,6 @@ footer a {
 
 #contact-page #form {
     width: 500px;
-    /* border: 2px solid black; */
     padding: 10px;
     margin: 0 auto;
     border-radius: 5px;
