@@ -13,14 +13,14 @@
     </head>
 
     <!-- Body -->
-    <body>
+    <body id="contact-page">
 
         <!-- Container -->
         <div class="container">
 
             <!-- Header -->
             <header class="header">
-                <a href="">Minimalistic Website</a>
+                <a class="link-title" href="/">Minimalistic Website</a>
             </header>
 
             <!-- Navigation -->
@@ -37,3 +37,33 @@
 
             <!-- Article -->
             <article class="main">
+                <h1 class="page-heading">Contact</h1>
+
+                <div id="form">
+                    <form method="POST" action="process.php">
+                        <p>
+                            <label for="name">Name:</label>
+                            <input type="text" name="name" id="name" placeholder="e.g. John Stevens">
+                        </p>
+                        <p>
+                            <label for="email">Email:</label>
+                            <input type="text" name="email" id="email" placeholder="email@example.com">
+                        </p>
+                        <p>
+                            <label for="subject">Subject:</label>
+                            <input type="text" name="subject" id="subject">
+                        </p>
+                        <p>
+                            <label for="message">Message:</label><br>
+                            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                        </p>
+                        <p>
+                            <input type="submit" name="submit" id="submit-button" value="Send Message">
+                        </p>
+                    </form>
+            </article>
+
+            <!-- Footer -->
+            <footer>
+                &copy; 2030 Minimalistic Website <span class="separator">|</span> Design by <a href="http://www.github.com/christopher-howard">Chris Howard</a>
+            </footer>  
