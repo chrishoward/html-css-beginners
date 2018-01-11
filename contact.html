@@ -40,22 +40,23 @@
                 <h1 class="page-heading">Contact</h1>
 
                 <div id="form">
-                    <form method="POST" action="process.php">
+                    <!-- process.php not within scope of HTML/CSS lessons -->
+                    <form action="process.php">
                         <p>
                             <label for="name">Name:</label>
-                            <input type="text" name="name" id="name" placeholder="e.g. John Stevens">
+                            <input type="text" name="name" id="name" placeholder="e.g. John Stevens" required>
                         </p>
                         <p>
                             <label for="email">Email:</label>
-                            <input type="text" name="email" id="email" placeholder="email@example.com">
+                            <input type="text" name="email" id="email" placeholder="email@example.com" required>
                         </p>
                         <p>
                             <label for="subject">Subject:</label>
-                            <input type="text" name="subject" id="subject">
+                            <input type="text" name="subject" id="subject" required>
                         </p>
                         <p>
                             <label for="message">Message:</label><br>
-                            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                            <textarea name="message" id="message" cols="30" rows="10" required></textarea>
                         </p>
                         <p>
                             <input type="submit" name="submit" id="submit-button" value="Send Message">

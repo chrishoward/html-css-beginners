@@ -1,7 +1,7 @@
 ![Udemy Logo](https://i.imgur.com/dlwUan0.png)
 
 ## Udemy Course: HTML and CSS for Beginners
-:hammer_and_wrench:  Programming Languages: `HTML5`, `CSS3`, `PHP`
+:hammer_and_wrench:  Programming Languages: `HTML5`, `CSS3`
 
 :book:  Course information: https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/  
 
